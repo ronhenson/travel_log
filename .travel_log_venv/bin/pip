@@ -1,4 +1,4 @@
-#!/home/ronh/data/workspace/travel-diary/.travel_log_venv/bin/python
+#!/home/ronh/data/workspace/travel_log/.travel_log_venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
