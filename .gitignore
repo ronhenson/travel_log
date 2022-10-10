@@ -1,6 +1,3 @@
-# venv environment
-*-env
-
 # Editors
 .vscode/
 .idea/
@@ -111,7 +108,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-*venv
+.*venv/**
 
 # Spyder project settings
 .spyderproject
